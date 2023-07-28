@@ -54,3 +54,9 @@ Before running the script, please ensure you have the following:
 6. The script will continue running until you manually stop it by pressing `Ctrl + C` in the command prompt or terminal window.
 
 Please note that the script will log its activities to a file named `email_spam.log` in the same directory. You can check this log file for any errors or troubleshooting if needed.
+
+**Disclaimer:**
+
+This script is provided as-is without any warranty or guarantee of its performance or effectiveness. Use this script at your own risk.  I am not liable for any damages or consequences that may arise from the use of this script. It is your responsibility to ensure that you have the necessary permissions and authorization to monitor and respond to emails from the specified email addresses.
+
+Please use this script responsibly and in compliance with applicable laws and regulations. Always exercise caution when interacting with unknown or potentially malicious emails.
