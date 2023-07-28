@@ -1,0 +1,15 @@
+{
+    "imap_server": "imap.gmail.com",
+    "imap_username": "your_email",
+    "imap_password": "your gmail app password",
+    "imap_mailbox": "INBOX",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "delay": 5,
+    "target_emails": [
+        "target_email1@example.com",
+        "target_email2@example.com",
+        "target_email3@example.com"
+    ],
+    "count": 10
+}
